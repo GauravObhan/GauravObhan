@@ -1,4 +1,4 @@
 -  Hi, I’m Gaurav Obhan
 -  I’m interested in learning Data Science 
--  I’m currently devloping skills like Machine Learning in Python,Sql,Power Bi,bascis of R programming and so on.
+-  I’m currently devloping skills like Machine Learning in Python,Sql,Power Bi,bascis of Computer Visions,basics of Nlp and so on.
 -  You can reach me on this email adress gauravobhan2002@gmail.com.
